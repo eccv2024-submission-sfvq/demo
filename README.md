@@ -4,8 +4,11 @@ This repository contains a demo to test and compare interpretable directions fou
 
 # requirements
 Plase install the requirements using the following lines in your terminal window:
+
 `conda create --name eccv2024_sfvq python=3.9`
+
 `conda activate eccv2024_sfvq`
+
 `pip install -r requirments.txt`
 
 Also, please download the StyleGAN2 pretrained model named "stylegan2-ffhq-1024x1024.pkl" from NVIDIA website under [this link.](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/research/models/stylegan2/files)
